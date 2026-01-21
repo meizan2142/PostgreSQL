@@ -13,8 +13,8 @@ Briefly describe the tables used in your queries:
 * **Table users:** Stores customer-related information such as name, email, phone and role.
 * **Table vehicles:** Contains vehicle details including vehicle name, type, model year, and availability status.
 * **Table bookings:** 
-       * user_id → references users(user_id)
-       * vehicle_id → references vehicles(vehicle_id)
+* user_id → references users(user_id)
+* vehicle_id → references vehicles(vehicle_id)
 
 ---
 
