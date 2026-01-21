@@ -8,6 +8,13 @@ This project showcases a Vehicle Rental System implemented with PostgreSQL, feat
 * **Query Language:** SQL (PostgreSQL)
 * **Tools:** [Beekeeper Studio]
 
+## 🗺️ Entity Relationship Diagram (ERD)
+
+The complete database structure and relationships for the Vehicle Rental System can be viewed here:
+
+[View ERD Diagram](https://drawsql.app/your-erd-link)
+
+
 ## 📂 Database Schema
 Briefly describe the tables used in your queries:
 * **Table users:** Stores customer-related information such as name, email, phone and role.
