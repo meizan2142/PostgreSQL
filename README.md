@@ -12,7 +12,7 @@ This project showcases a Vehicle Rental System implemented with PostgreSQL, feat
 
 The complete database structure and relationships for the Vehicle Rental System can be viewed here:
 
-[View ERD Diagram](https://drawsql.app/your-erd-link)
+[View ERD Diagram](https://drawsql.app/teams/saif-sultan/diagrams/vehicle-rental-system)
 
 
 ## 📂 Database Schema
