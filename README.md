@@ -1,4 +1,4 @@
-# Project Name: [Vehicle Rental System - Database Design & SQL Queries]
+# Vehicle Rental System - Database Design & SQL Queries
 
 ## 📌 Overview
 This project showcases a Vehicle Rental System implemented with PostgreSQL, featuring a well-structured ERD and a collection of requirement-driven SQL queries that efficiently retrieve and manage data across the Customers, Vehicles, and Bookings tables, all documented in the `queries.sql` file.
